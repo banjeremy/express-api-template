@@ -8,7 +8,7 @@
     "start": "nodemon app/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "banjeremy",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^0.8.5",
